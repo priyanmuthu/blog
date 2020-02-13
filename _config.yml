@@ -1,6 +1,6 @@
 # Site
 name: "Blog"
-title: "Mediumish"
+title: "PV Blog"
 description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
@@ -20,7 +20,7 @@ authors:
     email: priyanmuthu@gmail.com
     web: https://priyan.info
     twitter: https://twitter.com/priyanvaithi
-    description: ""
+    description: "Cool description coming up."
 
 # Plugins
 plugins:
